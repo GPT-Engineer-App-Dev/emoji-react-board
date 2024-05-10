@@ -1,3 +1,4 @@
+// Public Post Board Application
 import { Container, VStack, Text, Button, useDisclosure, Modal, ModalOverlay, ModalContent, ModalHeader, ModalCloseButton, ModalBody, FormControl, FormLabel, Input, ModalFooter, Box, Flex, IconButton, Heading } from "@chakra-ui/react";
 import { FaPlus, FaTrash, FaSmile } from "react-icons/fa";
 import React, { useState } from "react";
